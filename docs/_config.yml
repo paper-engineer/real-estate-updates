@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Bob"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "The real estate developer"
+  bio    : "The real estate developer\ This is the real estate side of things. If you're after the Guides to Life, that's the other website, linked below."
   links:
     - label: "Click Here for Guides"
     #  icon: "fas fa-fw fa-link"

@@ -3,12 +3,14 @@ main:
     url: /about/
   - title: "Invest"
     url: /invest/
-  - title: "Project Updates"
-    url: /tags/
   - title: "Project Info"
     url: /categories/project-info/
   - title: "Site Info"
     url: /categories/site-info/
+  - title: "Project Updates"
+    url: /categories/update/
+  #- title: "Tags"
+  #  url: /tags/
   #- title: "Categories"
   #  url: /categories/
   #- title: "Posts"

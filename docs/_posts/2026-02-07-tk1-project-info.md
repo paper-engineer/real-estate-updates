@@ -5,6 +5,7 @@ categories:
   - project info
 tags:
   - Tokoroa 1
+excerpt: ""
 ---
 
 # About this project

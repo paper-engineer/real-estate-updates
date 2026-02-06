@@ -65,8 +65,8 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "The real estate developer"
   links:
-    - label: "If you're looking for the Guides, click here"
-      icon: "fas fa-fw fa-link"
+    - label: "Click Here for Guides"
+    #  icon: "fas fa-fw fa-link"
       url: "https://guides.alwaysdata.net"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"

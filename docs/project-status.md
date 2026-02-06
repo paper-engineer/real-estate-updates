@@ -2,6 +2,7 @@
 
 todo
 - figure out images
+- work out something with collections to make site/project info easily accessible
 
 7/2/2026
 
@@ -21,11 +22,13 @@ New post: copy one of the previous posts and update the header bar, fuck it.
 
 Tags are projects. not addresses, just "Tokoroa 1". "Farm" will probably show up at some stage. 
 
-Categories are "updates" and "info", so far. make that project info and site info, I think. 
+Categories are "updates", "project info", and "site info" so far. yet to figure out how that works 
 
 Homepage updated: added home.md to _pages, set in the headings "permalink: /", deleted index.html
 
 To get a right-pane TOC, add "toc: true" to the headings, or to the config.yml default
+
+You can use <br> inside of markdown quoted text. 
 
 ---
 

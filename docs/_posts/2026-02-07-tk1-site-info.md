@@ -1,5 +1,5 @@
 ---
-title: "Site Information: Tokoroa 1"
+title: "Site Info: Tokoroa 1"
 date: 2026-02-07
 categories:
   - site info

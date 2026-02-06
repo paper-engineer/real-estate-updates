@@ -1,6 +1,6 @@
 ---
-layout: single
 permalink: /
+title: "Home"
 ---
 
 test text

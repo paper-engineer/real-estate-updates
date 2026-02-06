@@ -5,8 +5,10 @@ main:
     url: /invest/
   - title: "Project Updates"
     url: /tags/
-  #- title: "Project Info"
-  #  url: /collections/
+  - title: "Project Info"
+    url: /project-info/
+  - title: "Site Info"
+    url: /site-info/
   #- title: "Categories"
   #  url: /categories/
   #- title: "Posts"

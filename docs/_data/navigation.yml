@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Invest"
+    url: /invest/
   - title: "Posts"
     url: /posts/
   - title: "Categories"

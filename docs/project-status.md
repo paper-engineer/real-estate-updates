@@ -7,7 +7,8 @@
 - deleted sample posts (they're now in the main under examples folder)
 - attempted to make a new post. it works.
 - updated "about" pages
-- attempted to change homepage layout. hmmm. 
+- attempted to change homepage layout. still a work in progress. 
+- added toc:true to the blog pages. let's see if it works. 
 
 ---
 

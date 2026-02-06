@@ -1,8 +1,6 @@
 ---
 title: Project Info
-layout: collection
-permalink: /project-info/
-collection: project-info
-entries_layout: grid
-classes: wide
+layout: category
+permalink: /categories/project-info/
+taxonomy: project info
 ---

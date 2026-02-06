@@ -16,7 +16,7 @@ separately, I now have a more-or-less comprehensive list of house removal compan
 # project status
 - builder arranged, waiting on quotes/estimates
 - insurance hopefully working on it
-- bank finance locked in: 363k @ 4.4% for 1yr
+- bank finance locked in @ 4.4% for 1yr
 - deposit paid out of hard money, it'll come back around in the bank finance
 - looking for houses to place
 - access and stuff determined

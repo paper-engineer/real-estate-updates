@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 minimal_mistakes_skin: default
 url: "https://paper-engineer.github.io"
 baseurl: "/minimal-site"
+repository: "paper-engineer/minimal-site"
 search: true
 
 # Build settings

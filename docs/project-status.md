@@ -2,7 +2,6 @@
 
 todo
 - figure out images
-- work out something with collections to make site/project info easily accessible
 
 7/2/2026
 
@@ -12,7 +11,8 @@ todo
 - attempted to make a new post. it works.
 - updated "about" pages
 - attempted to change homepage layout. it works. 
-- added toc:true to the blog pages. it works. 
+- added toc:true to the blog pages. it works.
+- working out something with collections to make site/project info easily accessible. I guess it works. 
 
 ---
 

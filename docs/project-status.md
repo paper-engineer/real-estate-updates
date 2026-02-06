@@ -30,6 +30,8 @@ To get a right-pane TOC, add "toc: true" to the headings, or to the config.yml d
 
 You can use \<br> inside of markdown quoted text. 
 
+(not tested: you can use "pin: true" to get a pinned post)
+
 ---
 
 # Minimal Mistakes remote theme starter

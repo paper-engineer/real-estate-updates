@@ -3,7 +3,7 @@ permalink: /invest/
 title: "Invest"
 ---
 
-These are the terms of the hard money investment deal. 
+These are the terms of the hard money investment deal offered by Bob. 
 
 Summary: 12%pa, compounded monthly, paid out either monthly or all at once when returning the base capital. 
 

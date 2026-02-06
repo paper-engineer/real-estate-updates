@@ -1,3 +1,15 @@
+# What did so far
+
+7/2/2026
+
+- copied the whole thing into /docs by way of download and upload, now it works
+- updated nav pane, more or less
+- deleted sample posts (they're now in the main under examples folder)
+
+New post: copy one of the previous posts and update the header bar, fuck it. 
+
+---
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).

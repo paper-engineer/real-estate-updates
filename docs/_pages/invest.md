@@ -34,6 +34,6 @@ The traditional method of splitting a joint venture is one person fronts all the
 
 I'm the one with the effort. That means you're the one with the money. 
 
-For a 50/50 split, your minimum entry point is something like $250k for the first round, and $120k per round thereafter. Exact figures depending on location. If you're coming in with less, then I have to bring some of the money in addition to all the effort, so the final profit split will favour me. 
+For a 50/50 split, your minimum entry point is something like $250k for the first round, and $120k per round thereafter. Exact figures depending on location of development. If you're coming in with less, then I have to bring some of the money in addition to all the effort, so the final profit split will favour me. 
 
 Alternatively, your entry point can include property you want developed in some way; we can figure out something that works. (Money is still required to develop the property! Just not $250k liquid of it.) 

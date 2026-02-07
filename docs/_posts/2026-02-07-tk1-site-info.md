@@ -8,7 +8,7 @@ tags:
 excerpt: ""
 ---
 
-(figure out how to add images)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg)
 
 Section size: 980m2 (more or less)
 

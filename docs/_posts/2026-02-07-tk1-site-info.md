@@ -18,22 +18,6 @@ The current plan includes the following:
 
 *I'm planning to live in the cabin on weekdays(ish) for work during the project! This factors into my calculations! 
 
-# Pictures
-
-Site dimensions
-
-![Site dimensions 1]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-site1.png)
-
-![Site dimensions 2]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-site2.png) 
-
-District plan
-
-![District Plan image]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-dp.png)
-
-Concept sketch
-
-![Concept sketch]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-sketch.png)
-
 # What I'm looking for in a house
 This is considered a good part of town, so I'd like a good-quality house to put on it: 3 or more bedrooms in 90+ m2 would be ideal, with space for a second toilet. I am open to two-piece shifts and/or houses requiring some renovations. I'm willing to consider house-only sales and arrange my own removal. 
 
@@ -48,3 +32,18 @@ My total working budget for the house and move is, I think, on the order of $100
 - Section is partly in a rainfall 100-year flood zone, so the paperwork to approve the relocated build will be a bit fiddly and we'll probably need higher piles than normal.
 - Stormwater sump location precludes any new driveway on that side of the house
 - Wastewater lines passing under section - limitations to structures around front house
+
+# Pictures
+
+Site dimensions
+
+![Site dimensions 1]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-site1.png)
+![Site dimensions 2]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-site2.png) 
+
+District plan
+
+![District Plan image]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-dp.png)
+
+Concept sketch
+
+![Concept sketch]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-sketch.png)

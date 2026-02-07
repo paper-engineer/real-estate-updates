@@ -20,7 +20,7 @@ The current plan includes the following:
 
 # What I'm looking for in a house
 This is considered a good part of town, so I'd like a good-quality house to put on it: either
-- 3 or more bedrooms in 90+ m2, preferably with space for a second toilet, or
+- 3+ bedrooms in 90+ m2, preferably with space for a second toilet, or
 - 4+ bedrooms in 110+ m2, definitely needs space for a second toilet. 
 
 I am open to two-piece shifts and/or houses requiring some renovations. I'm willing to consider house-only sales and arrange my own removal. 

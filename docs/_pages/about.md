@@ -26,7 +26,9 @@ We can break that down further. And you want to know where your lending goes, ri
 
 ### 1. Buy a house, with land
 
-The S&P "standard" deposit is 10%. Even in Tokoroa, that's a good 30-40 grand. Typically I do not carry this much cash around, so I borrow it from you. It'll come back around on settlement day. (Typically I also try to get away with a 5-10k deposit instead of 10%, which I do carry around, but that doesn't always work.) 
+The S&P "standard" deposit is 10% on unconditional. Even in Tokoroa, that's a good 30-40 grand. Typically I do not carry this much cash around, so I borrow it from you. It'll come back around on settlement day. (Typically I also try to get away with a 5-10k deposit instead of 10%, which I do carry around, but that doesn't always work.) 
+
+*Contract deposit is not house deposit. Contract deposit is goodwill money that says "I intend to finish executing on this contract." House deposit is the 30% of the sale price that you need to have somewhere because the bank will only lend up to 70% of house value. That somewhere may or may not be easily accessible to pay the contract deposit out of. 
 
 ### 2. Buy another house, without land
 
@@ -38,11 +40,13 @@ Some expenses are incurred in the course of getting the land ready for the house
 
 Once we're ready for the move itself, the house has to be paid for (mostly) up front before it's shifted. (Depending on the company, they may or may not be OK with a contract that says last 5% after it's tied to piles. But that's still 95% of 100k.) I really, really don't carry this much cash around. So I borrow the other 65-70k off of you. 
 
+This is the point in the project that requires the highest amount of liquidity, which I'm getting from private lending. 
+
 ### 4. Profit (...maybe?)
 
-Now that the house is on the land, the bank will finally lend on it! Hooray! I borrow all the money I owe you at bank rates, so I can stop paying hard money rates. 
+Now that the house is on the land, the bank will finally lend on it! Hooray! I borrow all the money I owe you at bank rates, so I can stop paying hard money rates on it. 
 
-This is a bit of an oversimplification, because that's not a completed house by any stretch of the imagination. I still have to connect it to services (20k), clean up damage from the move (10k), and finish off any required renovations ($???). Anything I can't get from the bank, I'll have to get from you again. 
+Okay, that's a bit of an oversimplification, because it's not a completed house by any stretch of the imagination. I still have to connect it to services (20k), clean up damage from the move (10k), and finish off any required renovations ($???). Anything I can't get from the bank, I'll have to get from you again. 
 
 ### 5. Profit (for real this time)
 

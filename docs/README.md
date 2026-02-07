@@ -1,7 +1,7 @@
 # What did so far
 
-todo
-- figure out images
+8/2/2026
+- added the gitignore so this file can be renamed README. yay. 
 
 7/2/2026
 
@@ -14,6 +14,7 @@ todo
 - added toc:true to the blog pages. it works.
 - working out something with collections to make site/project info easily accessible. I guess it works.
 - fuck it, too much work. we'll keep them posts and do a category:tag deal. 
+- figured out images
 
 ---
 

@@ -30,7 +30,7 @@ If I want to return the money, but you'd rather delay the return (hoping that ex
 
 # Invest with Mog
 
-The traditional method of splitting a joint venture is one person fronts all the money, and the other one fronts all the effort. 
+The traditional method of splitting a joint venture is one person fronts all the money, and the other one fronts all the effort, and the profits are split 50/50. 
 
 I'm the one with the effort. That means you're the one with the money. 
 

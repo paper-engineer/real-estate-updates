@@ -1,9 +1,7 @@
 ---
 permalink: /invest/
-title: "Invest"
+title: "Invest in Mog"
 ---
-
-# Invest in Mog
 
 These are the terms of the hard money investment deal offered by Mog. 
 

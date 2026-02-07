@@ -8,8 +8,6 @@ tags:
 excerpt: ""
 ---
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg)
-
 Section size: 980m2 (more or less)
 
 The current plan includes the following: 
@@ -19,6 +17,10 @@ The current plan includes the following:
 - Potentially add a cabin/sleepout, possibly with attached bathroom, to be used as an extra bedroom for higher rent. Of course, the final layout will depend on the selected house for relocation. 
 
 *I'm planning to live in the cabin on weekdays(ish) for work during the project! This factors into my calculations! 
+
+# Pictures
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg)
 
 # What I'm looking for in a house
 This is considered a good part of town, so I'd like a good-quality house to put on it: 3 or more bedrooms in 90+ m2 would be ideal, with space for a second toilet. I am open to two-piece shifts and/or houses requiring some renovations. I'm willing to consider house-only sales and arrange my own removal. 

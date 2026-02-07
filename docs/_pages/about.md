@@ -24,7 +24,7 @@ I look for standalone houses on large sections, where the house is positioned in
 
 We can break that down further. And you want to know where your lending goes, right? 
 
-1. Buy a house, with land
+1. **Buy a house, with land**
 
    The S&P "standard" deposit is 10%. Even in Tokoroa, that's a good 30-40 grand. Typically I do not carry this much cash around, but it'll come back around on settlement day. (Typically I also try to get away with a 5-10k deposit instead of 10%, which I do carry around, but that doesn't always work.) 
 

@@ -1,3 +1,19 @@
+# New Hire!
+
+As it turns out, someone working full time finds it very difficult to make it to a house yard 2.5 hours away during work hours for viewings. 
+
+*Path of Building player enters stage left*
+
+*A Planning & Development Assistant has been added to the team for this project.* 
+
+# Meeting with Council...as expected
+
+I had such high hopes, you know? Arranged a meeting with the engineer, planner and someone from the building consents team. Only the planner turned up - at a meeting which the time was set by the engineer! 
+
+Got some usable info around subdivision, at least, but nothing immediately actionable. Now to chase all my required info via email. 
+
+---
+
 for project info
 
 # Team
@@ -12,4 +28,4 @@ The good folks at SWDC have been all in from day one.
 
 Looking forward to working with Fiona from RentAssured. 
 
-Upcoming: surveyor, house mover, assistant...
+Upcoming: surveyor, house mover, assistant, geotech...

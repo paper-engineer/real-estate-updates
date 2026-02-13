@@ -1,12 +1,13 @@
 
 tell me about these houses
 
-- hhr248: t1/2 located helensville. pending viewing to confirm renos, prob needs rangehood. 77392+gst=89k, renos ???
-- trh glenfield: t1 located glenfield. needs bathroom reconfig and raise entryway, then fix floor and add carpet. p sure needs rangehood. 26500+tpt maybe 80k+, renos 30k?
-- trh highland: t1/2 located manukau. similar renos needed to hhr248, kitchen bathroom paint carpet. 40k+tpt=90k at a first guess, renos 40k
+- hhr248: t1/2 located helensville, 7400 wide x 13500. pending viewing to confirm renos, prob needs rangehood. 77392+gst=89k, renos ???
+- trh glenfield: t1 located glenfield, 7800 wide should be fine. needs bathroom reconfig and raise entryway, then fix floor and add carpet. p sure needs rangehood. 26500+tpt maybe 80k+, renos 30k?
+- trh highland: t1/2 located manukau, 8300 wide may be hard to move in. similar renos needed to hhr248, kitchen bathroom paint carpet. 40k+tpt=90k at a first guess, renos 40k
+- trh avondale: same layout as other t1 boxes but fully renovated, although 6800 wide and bit longer. 125k (please try to make it house only though)
 - em747: pending plans
 
-- pbr173: t1, minor kitchen, bathroom reconfig, carpet. 96k, renos 30k
+- pbr173: t1 villa, minor kitchen, bathroom reconfig, carpet. 96k, renos 30k
 - pbr140: t1/2 (pending renos) cheap, renos expensive
 - pbr168: t2.5 ditto
 - pbr116: t2-2.5 ditto
@@ -16,7 +17,9 @@ tell me about these houses
 
 well, there is a clear winner. and it's in fkn glenfield. I literally cannot get up there at any reasonable hour of any day in the next two and a half weeks. 
 
-walk through a similar plan uhhh no similar at pbr, 140 is closest. maybe similars but expensive expensive? that is a tomorrow problem. 
+walk through a similar plan, uhhh no similar at pbr, 140 is closest. maybe similars but expensive expensive? that is a tomorrow problem. 
+
+then call myles on monday and uh. nope, I gotta do fkn work. 
 
 ---
 
@@ -24,7 +27,7 @@ therefore the thing to do is
 
 go pbr. view all of the above, just for shits and giggles. 
 
-go to akl. view trh glenfield and highland, fenton hhr248, maybe em747. 
+go to akl. view trh boxes, fenton hhr248, maybe em747. 
 
 most likely choose one of these
 

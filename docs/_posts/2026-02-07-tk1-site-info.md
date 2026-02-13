@@ -10,6 +10,19 @@ excerpt: ""
 
 Section size: 980m2 (more or less)
 
+# Key dimensions 
+
+(approximate, as measured with ruler on PC screen)
+
+![Site dimensions]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-dims.jpg)
+
+# Access notes
+- The space between existing house and the building next door is **~8m**, wide enough to fit some shoeboxes. I measured 6.8m from my eaves to next door's fence (~1m high), and there's a metre or two between next door's fence and its eaves (not measured in person). This access has no curb cut and is not suitable for a legal driveway. 
+- Trees will be cut back or removed to fit a house through. 
+- The fence in the lower left corner is **~6.8m** from the house at the closest approach, and is 1.6m high. I understand there are options (lift the house above the fence, reinstate it at my cost after the move, or the right two-piece shift may bypass the issue entirely), but the cost and convenience of the required option will factor into house selection. 
+
+# Current plan
+
 The current plan includes the following: 
 - Remove the second garage (light blue roof, 5m x 6m). 
 - Move the first garage (3.6m x 7m) back. 
@@ -18,14 +31,8 @@ The current plan includes the following:
 
 *I'm planning to live in the cabin on weekdays(ish) for work during the project! This factors into my calculations! 
 
-
-# Key dimensions 
-
-(approximate, as measured with ruler on PC screen)
-
-![Site dimensions]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-dims.jpg)
-
 # What I'm looking for in a house
+
 This is considered a good part of town, so I'd like a good-quality house to put on it: either
 - 3+ bedrooms in 90+ m2, preferably with space for a second toilet, or
 - 4+ bedrooms in 110+ m2, definitely needs space for a second toilet. 
@@ -36,18 +43,13 @@ My total working budget for the house and move is, I think, on the order of $100
 
 ## Dimension limitations (more or less)
 
-max width 14.18m, or ~500 more if it's tilted; max length ~15.1m, or ~4 more if it's tilted, but that starts to mess with outdoor area trouble
+max width 14.18m, or ~500 more if it's tilted; max length ~15.1m, or ~4 more if it's tilted, but that starts to mess with meeting outdoor area requirements
 
-allowing 4m from driveway exit to garage and putting an L behind, max width of the short part of the L is ~6.7m, accounting 1.5m to back of garage
+allowing 4m from driveway exit to garage and putting an L behind, max width of the short part of the L is ~6.7m, accounting 1.5m between house and back of garage. 
 
 cabin at 6m allows long part of L to be 10.1m, plus a little under 4m if tilted, accounting 1.5m to cabin. so we definitely tilt it. also cabin can be made smaller to 4.5m. 
 
 we can put garage at back of section if house is up to 9.6 wide. (moving it a little bit up would allow a slightly wider house.) this is useful for, idk, villas. they're kind of square. 
-
-# Access notes
-- The space between existing house and the building next door is #~8m#, wide enough to fit some shoeboxes. I measured 6.8m from my eaves to next door's fence (~1m high), and there's a metre or two between next door's fence and its eaves (not measured in person). This access has no curb cut and is not suitable for a legal driveway. 
-- Trees will be cut back or removed to fit a house through. 
-- The fence in the lower left corner is #~6.8m# from the house at the closest approach, and is 1.6m high. I understand there are options (lift the house above the fence, reinstate it at my cost after the move, or the right two-piece shift may bypass the issue entirely), but the cost and convenience of the required option will factor into house selection. 
 
 # Planning caveats
 - Section is partly in a rainfall 100-year flood zone, so the paperwork to approve the relocated build will be a bit fiddly and we'll probably need higher piles than normal.

@@ -32,9 +32,7 @@ Due diligence suggested that the obstacles were not insurmountable, and my evalu
 
 # Selected house
 
-3 bedrooms, 100m2, renovate to add separate toilet accessed via laundry. 
-
-Separately add cabin (with bathroom, without kitchen) to rent it out as a 4br. 
+1970s original, 3 bedrooms 1 bathroom, 100m2. To renovate to 4 bedrooms with 2 toilets and shower over bath. 
 
 # Numbers
 
@@ -48,9 +46,9 @@ Purchased house2: $85k (including transport and foundations)
 
 Relocated house2: $40k (cost until on piles - no development contributions in SWDC)
 
-Renovated house2: est. $60k
+Renovated house2: est. $60k++
 
-Relocated cabin: $???
+(maybe) Relocated cabin: $??? 
 
 Rented house2 and cabin: est. 650pw
 
@@ -70,7 +68,7 @@ Settlement: Wednesday 18 Feb
 
 Rented house1: TBC
 
-Contract on house2: est. Mon 23 Feb
+Contract on house2 signed: Sun 22 Feb (docusign + enthusiastic salespeople = weekend work)
 
 BC in: TBC
 

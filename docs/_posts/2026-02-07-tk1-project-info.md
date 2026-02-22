@@ -44,9 +44,11 @@ Renovated house1: est. $40k (not all immediately, some of it waits for the refin
 
 Rented house1: est. 550pw
 
-Relocated house2: est. $125k
+Purchased house2: $85k (including transport and foundations)
 
-Renovated house2: $???
+Relocated house2: $40k (cost until on piles - no development contributions in SWDC)
+
+Renovated house2: est. $60k
 
 Relocated cabin: $???
 

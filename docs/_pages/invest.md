@@ -7,7 +7,7 @@ title: "Invest in Mog"
 
 ---
 
-These are the terms of the hard money investment deal offered by Mog. 
+These are the terms of the hard money investment deal offered by Mog. There is room for negotiation, but this is the starting point. 
 
 Summary: 12%pa, compounded monthly, paid out either monthly or all at once when returning the base capital. 
 

@@ -7,7 +7,7 @@ main:
     url: /categories/project-info/
   - title: "Project Updates"
     url: /categories/update/
-  - title: "Site Details"
+  - title: "Project Plans"
     url: /categories/site-info/
   #- title: "Tags"
   #  url: /tags/

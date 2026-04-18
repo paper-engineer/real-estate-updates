@@ -32,7 +32,9 @@ Due diligence suggested that the obstacles were not insurmountable, and my evalu
 
 # Selected house
 
-1970s original, 3 bedrooms 1 bathroom, 100m2. To renovate to 4 bedrooms with 2 toilets and shower over bath. 
+~~ 1970s original, 3 bedrooms 1 bathroom, 102m2. To renovate to 4 bedrooms with 2 toilets and shower over bath. ~~
+
+1960s, 4 bedrooms 2 bathrooms, 107m2. Needs building envelope work to make it work with site layout. And tidy-from-being-moved renovations, obviously. 
 
 # Numbers
 
@@ -42,17 +44,17 @@ Renovated house1: est. $40k (not all immediately, some of it waits for the refin
 
 Rented house1: est. 550pw
 
-Purchased house2: $85k (including transport and foundations)
+Purchased house2: ~~$85k~~ 135k (including transport and foundations)
 
 Relocated house2: $40k (cost until on piles - no development contributions in SWDC)
 
-Renovated house2: est. $60k++
+Renovated house2: est. $20k++
 
-(maybe) Relocated cabin: $??? 
+~~ Relocated cabin: $ ??? ~~ 
 
-Rented house2 and cabin: est. 650pw
+Rented house2 ~~and cabin~~: est. 650pw
 
-Final value: $???
+Final value: $700-800k
 
 # Timeline
 
@@ -66,13 +68,19 @@ Accepted: Friday 30 Jan (documents came through Monday)
 
 Settlement: Wednesday 18 Feb 
 
-Rented house1: TBC
+Rented house1: TBC est. May (plumber delays, ugh)
 
-Contract on house2 signed: Sun 22 Feb (docusign + enthusiastic salespeople = weekend work)
+~~Contract on house2 signed: Sun 22 Feb (docusign + enthusiastic salespeople = weekend work) ~~
 
-BC in: TBC
+Contract on new house2 signed: Sun 12 Apr (I actually received it on Thu 9 Apr, but they acknowledged it immediately, so.)
 
-House arrival on site: TBC
+BC in: TBC est. end Apr
+
+BC rec'd: TBC hopefully not too long!
+
+House arrival on site: planned for weekend of 31 May
+
+On piles: either immediately after BC rec'd or immediately after arrival
 
 CCC applied: TBC
 

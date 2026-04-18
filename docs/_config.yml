@@ -29,7 +29,6 @@ search: true
 
 # Build settings
 markdown: kramdown
-  input: GFM
 remote_theme: mmistakes/minimal-mistakes
 exclude: [".gitignore", "LICENSE", "README.md"]
 # Outputting

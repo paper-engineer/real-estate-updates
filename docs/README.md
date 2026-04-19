@@ -1,5 +1,8 @@
 # What did so far
 
+19/4/2026
+- fixed some stupid broken permalinking behaviour
+
 8/2/2026
 - added the gitignore so this file can be renamed README. yay. 
 

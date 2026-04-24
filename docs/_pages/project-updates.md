@@ -1,6 +1,6 @@
 ---
 title: Project Updates
-layout: posts
+layout: category
 permalink: /categories/update/
 taxonomy: update
 ---

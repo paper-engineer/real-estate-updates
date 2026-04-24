@@ -1,5 +1,8 @@
 # What did so far
 
+24/4/2026
+- added back the tag archive now that I have a tk2 tag
+
 19/4/2026
 - fixed some stupid broken permalinking behaviour
 

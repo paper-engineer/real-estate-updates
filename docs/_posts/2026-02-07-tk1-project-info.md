@@ -32,8 +32,6 @@ Due diligence suggested that the obstacles were not insurmountable, and my evalu
 
 # Selected house
 
-~~ 1970s original, 3 bedrooms 1 bathroom, 102m2. To renovate to 4 bedrooms with 2 toilets and shower over bath. ~~
-
 1960s, 4 bedrooms 2 bathrooms, 107m2. Needs building envelope work to make it work with site layout. And tidy-from-being-moved renovations, obviously. 
 
 # Numbers
@@ -42,23 +40,25 @@ Purchased house1: $350k (plus odd-number-extra-money)
 
 Renovated house1: est. $40k (not all immediately, some of it waits for the refinance)
 
-Rented house1: est. 550pw
+Rented house1: est. 550pw (but discounted while site works are going on next door)
 
-Purchased house2: ~~$85k~~ 135k (including transport and foundations)
+Purchased house2: 135k (including transport and foundations)
 
-Relocated house2: $40k (cost until on piles - no development contributions in SWDC)
+Relocated house2: est. $40k? (cost until on piles - no development contributions in SWDC)
 
 Renovated house2: est. $20k++
 
-~~ Relocated cabin: $ ??? ~~ 
+Rented house2: est. 650pw
 
-Rented house2 ~~and cabin~~: est. 650pw
+Miscellaneous final expenses: TBC (landscaping, fencing, new house1 driveway, all that stuff)
 
 Final value: $700-800k
 
 # Timeline
 
-Listed: Thursday 22 Jan
+Started looking to buy: November 2025
+
+House1 listed: Thursday 22 Jan
 
 Open home: Saturday 24 Jan
 
@@ -70,9 +70,9 @@ Settlement: Wednesday 18 Feb
 
 Rented house1: TBC est. May (plumber delays, ugh)
 
-~~Contract on house2 signed: Sun 22 Feb (docusign + enthusiastic salespeople = weekend work) ~~
+Contract on original house2 signed: Sun 22 Feb (docusign + enthusiastic salespeople = weekend work) - this is the one that got demolished and then there was drama trying to get my deposit back
 
-Contract on new house2 signed: Sun 12 Apr (I actually received it on Thu 9 Apr, but they acknowledged it immediately, so.)
+Contract on new house2 signed: Sun 12 Apr (I actually received the contract on Thu 9 Apr, but they acknowledged it immediately when I signed on the weekend, so.)
 
 BC in: TBC est. end Apr
 
